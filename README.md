@@ -13,6 +13,11 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Video Cover Letter - Financial Wellness Marketing Graduate Assistant](https://blog.vishaldhatrika.me/2022/12/video-cover-letter-financial-wellness.html)
+- [17 years of Gmail and something&#39;s gone now!](https://blog.vishaldhatrika.me/2021/06/17-years-of-gmail-and-somethings-gone.html)
+- [My Social Media sabbatical](https://blog.vishaldhatrika.me/2020/10/i-have-written-something-check-it-out.html)
+- [My first go at video production.](https://blog.vishaldhatrika.me/2020/10/my-first-go-at-video-production.html)
+- [The importance of guidance and mentorship in cracking interviews](https://blog.vishaldhatrika.me/2019/07/the-importance-of-guidance-and.html)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
