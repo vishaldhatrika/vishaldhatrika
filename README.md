@@ -27,13 +27,13 @@
 
 <h3 align="left">Coding Profiles:</h3>
 <p align="left">
-<a href="https://www.hackerrank.com/dvishal35" target="blank"><img align="center" src="https://vishaldhatrika.me/assets/images/hackerrank_logo.png" alt="dvishal35" height="30"/></a>
-<a href="https://www.leetcode.com/vishaldhatrika" target="blank"><img align="center" src="https://vishaldhatrika.me/assets/images/leetcode_logo.png" alt="vishaldhatrika" height="30"/></a>
-  <a href="https://www.codechef.com/users/vishaldhatrika" target="blank"><img align="center" src="https://vishaldhatrika.me/assets/images/codechef_logo.png" alt="vishaldhatrika" height="30"/></a>
+<a href="https://www.hackerrank.com/dvishal35" target="blank"><img align="center" src="https://vishaldhatrika.me/assets/images/hackerrank_logo.png" alt="dvishal35" height=24"/></a>
+<a href="https://www.leetcode.com/vishaldhatrika" target="blank"><img align="center" src="https://vishaldhatrika.me/assets/images/leetcode_logo.png" alt="vishaldhatrika" height="32"/></a>
+  <a href="https://www.codechef.com/users/vishaldhatrika" target="blank"><img align="center" src="https://vishaldhatrika.me/assets/images/codechef_logo.png" alt="vishaldhatrika" height="45"/></a>
   <a href="https://codeforces.com/profile/vishaldhatrika" target="blank"><img align="center" src="https://vishaldhatrika.me/assets/images/codeforces_logo.png" alt="vishaldhatrika" height="30"/></a>
-  <a href="https://www.interviewbit.com/profile/vishaldhatrika" target="blank"><img align="center" src="https://vishaldhatrika.me/assets/images/interviewbit_logo.png" alt="vishaldhatrika" height="30"/></a>
-  <a href="https://www.spoj.com/users/vishaldhatrika/" target="blank"><img align="center" src="https://vishaldhatrika.me/assets/images/spoj_logo.png" alt="vishaldhatrika" height="30"/></a>
-  <a href="https://smartinterviews.in/profile/dvishal35" target="blank"><img align="center" src="https://vishaldhatrika.me/assets/images/smartinterviews_logo.png" alt="vishaldhatrika" height="30"/></a>
+  <a href="https://www.interviewbit.com/profile/vishaldhatrika" target="blank"><img align="center" src="https://vishaldhatrika.me/assets/images/interviewbit_logo.png" alt="vishaldhatrika" height="36"/></a>
+  <a href="https://www.spoj.com/users/vishaldhatrika/" target="blank"><img align="center" src="https://vishaldhatrika.me/assets/images/spoj_logo.png" alt="vishaldhatrika" height="60"/></a>
+  <a href="https://smartinterviews.in/profile/dvishal35" target="blank"><img align="center" src="https://vishaldhatrika.me/assets/images/smartinterviews_logo.png" alt="vishaldhatrika" height="75"/></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
