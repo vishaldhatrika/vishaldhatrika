@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vishaldhatrika" alt="vishaldhatrika" /></a> </p>
 
-- 🤝 I’m looking for help with **Open Source Contributions**
+- 🤝 I’m looking for help with **Open Source Contributions, Front-end web development frameworks, Blockchain**
 
 - 👨‍💻 All of my projects are available at [https://vishaldhatrika.me](https://vishaldhatrika.me)
 
