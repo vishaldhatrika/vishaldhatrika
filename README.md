@@ -39,7 +39,7 @@
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.spoj.com/users/vishaldhatrika/" target="blank"><img align="center" src="https://vishaldhatrika.me/assets/images/spoj_logo.png" alt="vishaldhatrika" height="45"/></a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://smartinterviews.in/profile/vishaldhatrika" target="blank"><img align="center" src="https://vishaldhatrika.me/assets/images/smartinterviews_logo.png" alt="vishaldhatrika" height="75"/></a>
+  <a href="https://smartinterviews.in/profile/dvishal35" target="blank"><img align="center" src="https://vishaldhatrika.me/assets/images/smartinterviews_logo.png" alt="vishaldhatrika" height="75"/></a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
