@@ -27,19 +27,19 @@
 
 <h3 align="left">Coding Profiles:</h3>
 <p align="left">
-<a href="https://www.hackerrank.com/vishaldhatrika" target="blank"><img align="center" src="https://vishaldhatrika.me/assets/images/hackerrank_logo.png" alt="vishaldhatrika" height=24"/></a>
+<a href="https://www.hackerrank.com/vishaldhatrika" target="blank"><img align="center" src="https://vishaldhatrika.me/assets/images/hr_logo.png" alt="vishaldhatrika" height=50"/></a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.leetcode.com/vishaldhatrika" target="blank"><img align="center" src="https://vishaldhatrika.me/assets/images/leetcode_logo.png" alt="vishaldhatrika" height="32"/></a>
+<a href="https://www.leetcode.com/vishaldhatrika" target="blank"><img align="center" src="https://vishaldhatrika.me/assets/images/lc_logo.png" alt="vishaldhatrika" height="50"/></a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.codechef.com/users/vishaldhatrika" target="blank"><img align="center" src="https://vishaldhatrika.me/assets/images/codechef_logo.png" alt="vishaldhatrika" height="45"/></a>
+  <a href="https://www.codechef.com/users/vishaldhatrika" target="blank"><img align="center" src="https://vishaldhatrika.me/assets/images/cc_logo.png" alt="vishaldhatrika" height="50"/></a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://codeforces.com/profile/vishaldhatrika" target="blank"><img align="center" src="https://vishaldhatrika.me/assets/images/codeforces_logo.png" alt="vishaldhatrika" height="30"/></a>
+  <a href="https://codeforces.com/profile/vishaldhatrika" target="blank"><img align="center" src="https://vishaldhatrika.me/assets/images/cf_logo.png" alt="vishaldhatrika" height="50"/></a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.interviewbit.com/profile/vishaldhatrika" target="blank"><img align="center" src="https://vishaldhatrika.me/assets/images/interviewbit_logo.png" alt="vishaldhatrika" height="36"/></a>
+  <a href="https://www.interviewbit.com/profile/vishaldhatrika" target="blank"><img align="center" src="https://vishaldhatrika.me/assets/images/ib_logo.png" alt="vishaldhatrika" height="50"/></a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.spoj.com/users/vishaldhatrika/" target="blank"><img align="center" src="https://vishaldhatrika.me/assets/images/spoj_logo.png" alt="vishaldhatrika" height="45"/></a>
+  <a href="https://www.spoj.com/users/vishaldhatrika/" target="blank"><img align="center" src="https://vishaldhatrika.me/assets/images/sp_logo.png" alt="vishaldhatrika" height="50"/></a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://smartinterviews.in/profile/vishaldhatrika" target="blank"><img align="center" src="https://vishaldhatrika.me/assets/images/smartinterviews_logo.png" alt="vishaldhatrika" height="75"/></a>
+  <a href="https://smartinterviews.in/profile/vishaldhatrika" target="blank"><img align="center" src="https://vishaldhatrika.me/assets/images/si_logo.png" alt="vishaldhatrika" height="50"/></a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
