@@ -20,6 +20,10 @@
 - [My Social Media sabbatical](https://blog.vishaldhatrika.me/2020/10/i-have-written-something-check-it-out.html)
 <!-- BLOG-POST-LIST:END -->
 
+# StackOverflow Activity
+<!-- STACKOVERFLOW:START -->
+<!-- STACKOVERFLOW:END -->
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/vishaldhatrika" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vishaldhatrika" height="30" width="40" /></a>
