@@ -20,7 +20,7 @@
 - [My Social Media sabbatical](https://blog.vishaldhatrika.me/2020/10/i-have-written-something-check-it-out.html)
 <!-- BLOG-POST-LIST:END -->
 
-# StackOverflow Activity
+### StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
 <!-- STACKOVERFLOW:END -->
 
