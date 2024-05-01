@@ -22,6 +22,7 @@
 
 ### StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
+- [Answer by Vishal Dhatrika for Why is css not accepting for header and navbar changes?](https://stackoverflow.com/questions/78295643/why-is-css-not-accepting-for-header-and-navbar-changes/78295669#78295669)
 <!-- STACKOVERFLOW:END -->
 
 <h3 align="left">Connect with me:</h3>
