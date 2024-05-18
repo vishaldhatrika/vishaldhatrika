@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Vishal Dhatrika</h1>
-<h3 align="center">CS Grad Student. Beginner at a lot of things.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishaldhatrika&label=Profile%20views&color=0e75b6&style=flat" alt="vishaldhatrika" /> </p>
 
