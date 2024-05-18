@@ -2,7 +2,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishaldhatrika&label=Profile%20views&color=0e75b6&style=flat" alt="vishaldhatrika" /> </p>
 
+{::comment}
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vishaldhatrika&no-bg=true&no-frame=true&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&theme=onedark" alt="vishaldhatrika" /></a> </p>
+{:/comment}
 
 -  I’m looking for collaborators on **Open Source Contributions, Front-end web development frameworks, Blockchain**
 
