@@ -1,14 +1,14 @@
-<h1 align="center">Hi 👋, I'm Vishal Dhatrika</h1>
+<h1 align="center">Vishal Dhatrika</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishaldhatrika&label=Profile%20views&color=0e75b6&style=flat" alt="vishaldhatrika" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vishaldhatrika&no-bg=true&no-frame=true&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&theme=onedark" alt="vishaldhatrika" /></a> </p>
 
-- 🤝 I’m looking for collaborators on **Open Source Contributions, Front-end web development frameworks, Blockchain**
+-  I’m looking for collaborators on **Open Source Contributions, Front-end web development frameworks, Blockchain**
 
-- 👨‍💻 All of my projects are available at [https://vishaldhatrika.me](https://vishaldhatrika.me)
+-  All of my projects are available at [https://vishaldhatrika.me](https://vishaldhatrika.me)
 
-- 📝 I write articles on [https://blog.vishaldhatrika.me](https://blog.vishaldhatrika.me)
+-  I write articles on [https://blog.vishaldhatrika.me](https://blog.vishaldhatrika.me)
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
