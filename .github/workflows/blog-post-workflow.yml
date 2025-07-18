@@ -1,19 +1,45 @@
-name: Latest blog post workflow
+name: Update README with latest blog posts
+
 on:
-  schedule: # Run workflow automatically
-    - cron: '1 0/6 * * *' # Runs at 1 minute pash the hour, every 6 hrs
-  workflow_dispatch: # Run workflow manually (without waiting for the cron to be called), through the GitHub Actions Workflow page directly
+  schedule:
+    - cron: '1 0/6 * * *'
+  workflow_dispatch:
+
 permissions:
-  contents: write # To write the generated contents to the readme
+  contents: write
 
 jobs:
-  update-readme-with-blog:
-    name: Update this repo's README with latest blog posts
+  update-readme:
     runs-on: ubuntu-latest
+
     steps:
-      - name: Checkout
+      - name: Checkout repo
         uses: actions/checkout@v3
-      - name: Pull in dev.to posts
-        uses: gautamkrishnar/blog-post-workflow@v1
-        with:
-          feed_list: 'https://blog.vishaldhatrika.me/feeds/posts/default'
+
+      - name: Fetch and update README
+        run: |
+          # Fetch blog JSON
+          curl -s https://blog.vishaldhatrika.me/api/posts > posts.json
+
+          # Prepare markdown list (top 5 posts)
+          echo "<!-- BLOG-POST-LIST:START -->" > blog_section.md
+          jq -r '.[0:5][] | "- [\(.title)](\(.url))"' posts.json >> blog_section.md
+          echo "<!-- BLOG-POST-LIST:END -->" >> blog_section.md
+
+          # Replace old section in README
+          awk '
+            BEGIN { start=0 }
+            /<!-- BLOG-POST-LIST:START -->/ { print; start=1; while (getline < "blog_section.md") print; next }
+            /<!-- BLOG-POST-LIST:END -->/ { start=0; next }
+            start == 0 { print }
+          ' README.md > new_README.md
+
+          mv new_README.md README.md
+
+      - name: Commit changes
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add README.md
+          git commit -m "📚 Update latest blog posts" || echo "No changes to commit"
+          git push
