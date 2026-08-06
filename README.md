@@ -29,15 +29,15 @@
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.leetcode.com/vishaldhatrika" target="blank"><img align="center" src="https://assets.leetcode.com/static_assets/public/images/LeetCode_logo_rvs.png" alt="vishaldhatrika on LeetCode" height="50"/></a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.codechef.com/users/vishaldhatrika" target="blank"><img align="center" src="https://cdn.codechef.com/sites/all/themes/abessive/cc-logo.png" alt="vishaldhatrika" height="50"/></a>
+  <a href="https://www.codechef.com/users/vishaldhatrika" target="blank"><img align="center" src="https://cdn.codechef.com/sites/all/themes/abessive/cc-logo.png" alt="vishaldhatrika on CodeChef" height="50"/></a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://codeforces.com/profile/vishaldhatrika" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/b/b1/Codeforces_logo.svg" alt="vishaldhatrika" height="50"/></a>
+  <a href="https://codeforces.com/profile/vishaldhatrika" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/b/b1/Codeforces_logo.svg" alt="vishaldhatrika on CodeForces" height="50"/></a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.interviewbit.com/profile/vishaldhatrika" target="blank"><img align="center" src="https://vishaldhatrika.me/assets/images/ib_logo.png" alt="vishaldhatrika" height="50"/></a>
+  <a href="https://www.interviewbit.com/profile/vishaldhatrika" target="blank"><img align="center" src="https://ibassets.s3.amazonaws.com/static-assets/ib-logo-square.png" alt="vishaldhatrika on InterviewBit" height="50"/></a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.spoj.com/users/vishaldhatrika/" target="blank"><img align="center" src="https://vishaldhatrika.me/assets/images/sp_logo.png" alt="vishaldhatrika" height="50"/></a>
+  <a href="https://www.spoj.com/users/vishaldhatrika/" target="blank"><img align="center" src="https://stx1.spoj.com/gfx/2015e.png" alt="vishaldhatrika on Spoj" height="50"/></a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://smartinterviews.in/profile/vishaldhatrika" target="blank"><img align="center" src="https://vishaldhatrika.me/assets/images/si_logo.png" alt="vishaldhatrika" height="50"/></a>
+  <a href="https://smartinterviews.in/profile/vishaldhatrika" target="blank"><img align="center" src="https://imagedelivery.net/L-RRwTsGtjw4XmStu9Y7XA/ecec048f-d26f-4a71-78a2-d7d269a78a00/h=400" alt="vishaldhatrika on SmartInterviews" height="50"/></a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
