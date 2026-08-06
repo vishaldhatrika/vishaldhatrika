@@ -35,7 +35,7 @@
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.interviewbit.com/profile/vishaldhatrika" target="blank"><img align="center" src="https://ibassets.s3.amazonaws.com/static-assets/ib-logo-square.png" alt="vishaldhatrika on InterviewBit" height="50"/></a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.spoj.com/users/vishaldhatrika/" target="blank"><img align="center" src="https://stx1.spoj.com/gfx/2015e.png" alt="vishaldhatrika on Spoj" height="50"/></a>
+  <a href="https://www.spoj.com/users/vishaldhatrika/" target="blank"><img align="center" src="https://miro.medium.com/v2/0*XvhNyVt7B79rr81x.png" alt="vishaldhatrika on Spoj" height="50"/></a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://smartinterviews.in/profile/vishaldhatrika" target="blank"><img align="center" src="https://imagedelivery.net/L-RRwTsGtjw4XmStu9Y7XA/ecec048f-d26f-4a71-78a2-d7d269a78a00/h=400" alt="vishaldhatrika on SmartInterviews" height="50"/></a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
