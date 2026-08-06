@@ -25,13 +25,13 @@
 
 <h3 align="left">Coding Profiles:</h3>
 <p align="left">
-<a href="https://www.hackerrank.com/vishaldhatrika" target="blank"><img align="center" src="https://vishaldhatrika.me/assets/images/hr_logo.png" alt="vishaldhatrika" height=50"/></a>
+<a href="https://www.hackerrank.com/vishaldhatrika" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" alt="vishaldhatrika on HackerRank" height=50"/></a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.leetcode.com/vishaldhatrika" target="blank"><img align="center" src="https://vishaldhatrika.me/assets/images/lc_logo.png" alt="vishaldhatrika" height="50"/></a>
+<a href="https://www.leetcode.com/vishaldhatrika" target="blank"><img align="center" src="https://assets.leetcode.com/static_assets/public/images/LeetCode_logo_rvs.png" alt="vishaldhatrika on LeetCode" height="50"/></a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.codechef.com/users/vishaldhatrika" target="blank"><img align="center" src="https://vishaldhatrika.me/assets/images/cc_logo.png" alt="vishaldhatrika" height="50"/></a>
+  <a href="https://www.codechef.com/users/vishaldhatrika" target="blank"><img align="center" src="https://cdn.codechef.com/sites/all/themes/abessive/cc-logo.png" alt="vishaldhatrika" height="50"/></a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://codeforces.com/profile/vishaldhatrika" target="blank"><img align="center" src="https://vishaldhatrika.me/assets/images/cf_logo.png" alt="vishaldhatrika" height="50"/></a>
+  <a href="https://codeforces.com/profile/vishaldhatrika" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/b/b1/Codeforces_logo.svg" alt="vishaldhatrika" height="50"/></a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.interviewbit.com/profile/vishaldhatrika" target="blank"><img align="center" src="https://vishaldhatrika.me/assets/images/ib_logo.png" alt="vishaldhatrika" height="50"/></a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -75,8 +75,8 @@
   </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vishaldhatrika&show_icons=true&locale=en&layout=compact" alt="vishaldhatrika" /></p>
+<p><img align="left" src="https://github-stats-extended.vercel.app/api/top-langs?username=vishaldhatrika&show_icons=true&locale=en&layout=compact" alt="vishaldhatrika" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vishaldhatrika&show_icons=true&locale=en" alt="vishaldhatrika" /></p>
+<p>&nbsp;<img align="center" src="https://github-stats-extended.vercel.app/api?username=vishaldhatrika&show_icons=true&locale=en" alt="vishaldhatrika" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishaldhatrika&" alt="vishaldhatrika" /></p>
